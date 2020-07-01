@@ -1,0 +1,3 @@
+export const DUMMY_FETCH_DATA = 'DUMMY_FETCH_DATA';
+export const DUMMY_SET_DATA = 'DUMMY_SET_DATA';
+export const DUMMY_DEFAULT = 'DUMMY_DEFAULT';
